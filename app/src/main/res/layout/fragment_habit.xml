@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HabitFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnh1"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="1. 규칙적인 운동"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:backgroundTint="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/btnh2"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="2. 충분한 수면"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:backgroundTint="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/btnh3"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="3. 스트레스 관리"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:backgroundTint="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/btnh4"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="4. 건강한 식습관"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:backgroundTint="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/btnh5"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="5. 금연 및 음주"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:backgroundTint="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/btnh6"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="6. 정기적인 건강검진"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:backgroundTint="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/btnh7"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="7. 호르몬 밸런스 유지"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:backgroundTint="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/btnh8"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="8. 성생활관리"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:backgroundTint="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/btnh9"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="9. 정신건강 관리"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:backgroundTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnh10"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="10. 건강한 체중유지"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:backgroundTint="#FFFFFF" />
+
+
+    </LinearLayout>
+
+
+
+
+</FrameLayout>

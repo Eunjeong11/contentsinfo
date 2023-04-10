@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. 규칙적인 운동"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="꾸준한 운동은 체중 관리 체력 향상 스트레스 감소 그리고 만성질환 예방에 도움이 된다. 주 2~3회, 하루 30분 이상의 중간 강도 운동이 권장되며, 걷기, 수영, 자전거 타기, 요가, 필라테스 등 다양한 운동을 선택할 수 있다."
+        />
+
+
+</LinearLayout>
